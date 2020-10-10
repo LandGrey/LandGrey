@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 
 
 - 🔭 I’m currently working on ✨ java web security - pentesting - tools development ✨
 
-
 ### Github stats
 
-![LandGrey's github stats](https://github-readme-stats.vercel.app/api?username=LandGrey&count_private=true&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=LandGrey&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&layout=compact" alt="My github stats"/>
+
+### Visitors
+![Visitor Count](https://profile-counter.glitch.me/LandGrey/count.svg)
